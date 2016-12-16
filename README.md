@@ -23,7 +23,7 @@ Human is typing something...
 
 ##### Program-AB
 
-Credit to Program-O for being an awesome Java implementation of AIML2.0!
+Credit to Program-AB for being an awesome Java implementation of AIML2.0!
 
 https://code.google.com/archive/p/program-ab/
 
